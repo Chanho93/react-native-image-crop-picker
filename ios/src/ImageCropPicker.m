@@ -70,8 +70,8 @@ RCT_EXPORT_MODULE();
             @"showsSelectedCount": @YES,
             @"forceJpg": @NO,
             @"sortOrder": @"none",
-            @"cropperCancelText": @"Cancel",
-            @"cropperChooseText": @"Choose"
+            @"cropperCancelText": @"취소",
+            @"cropperChooseText": @"확인"
         };
         self.compression = [[Compression alloc] init];
     }
